@@ -31,7 +31,7 @@ The following descriptions of the 9 variables in the dataset are taken from the 
     Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
     
 ## Making Plots
-Plot1 - creates a histogram of the Global Active Power variable and save it to a png file (plot1.png) with a size of 480 x 480 pixels.
-Plot2 - creates a line plot of the Global Active Power against the datetime of the dataset labeled as the weekdays of the dates. The plot is saved as png file (plot2.png) with a size of 480x480 pixels.
-Plot3 - creates a line plot that highlights the comparison among the 3 energy sub- meters (Sub_metering_1, Sub_metering_2, Sub_metering_3) through the 2-day period.The plot is saved as png file (plot3.png) with a size of 480x480 pixels.
-Plot4 - creates a multiple base plot of the different variables mentioned above but with the addition of the voltage variable plotted with the datetime. The plot is saved as png file (plot4.png) with a size of 480x480 pixels. 
+  1. Plot1 - creates a histogram of the Global Active Power variable and save it to a png file (plot1.png) with a size of 480 x 480 pixels.
+  2. Plot2 - creates a line plot of the Global Active Power against the datetime of the dataset labeled as the weekdays of the dates. The plot is saved as png file (plot2.png) with a size of 480x480 pixels.
+  3. Plot3 - creates a line plot that highlights the comparison among the 3 energy sub- meters (Sub_metering_1, Sub_metering_2, Sub_metering_3) through the 2-day period.The plot is saved as png file (plot3.png) with a size of 480x480 pixels.
+  Plot4 - creates a multiple base plot of the different variables mentioned above but with the addition of the voltage variable plotted with the datetime. The plot is saved as png file (plot4.png) with a size of 480x480 pixels. 
