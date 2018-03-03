@@ -5,11 +5,13 @@ This project is composed of 3 R-scripts:
   1. plot1.R
   2. plot2.R
   3. plot3.R
+  4. plot4.R
 
 These programs process a dataset and create plots of histogram and line plots for different variables in the dataset. These plots that are included in this repo are named:
   1. plot1.png
   2. plot2.png
   3. plot3.png
+  4. plot4.png
   
 ## Objectives  
 The goal of the assignment was simply to examine how the household energy usage varies over a 2 day period.
@@ -34,4 +36,4 @@ The following descriptions of the 9 variables in the dataset are taken from the 
   1. Plot1 - creates a histogram of the Global Active Power variable and save it to a png file (plot1.png) with a size of 480 x 480 pixels.
   2. Plot2 - creates a line plot of the Global Active Power against the datetime of the dataset labeled as the weekdays of the dates. The plot is saved as png file (plot2.png) with a size of 480x480 pixels.
   3. Plot3 - creates a line plot that highlights the comparison among the 3 energy sub- meters (Sub_metering_1, Sub_metering_2, Sub_metering_3) through the 2-day period.The plot is saved as png file (plot3.png) with a size of 480x480 pixels.
-  Plot4 - creates a multiple base plot of the different variables mentioned above but with the addition of the voltage variable plotted with the datetime. The plot is saved as png file (plot4.png) with a size of 480x480 pixels. 
+  4. Plot4 - creates a multiple base plot of the different variables mentioned above but with the addition of the voltage variable plotted with the datetime. The plot is saved as png file (plot4.png) with a size of 480x480 pixels. 
